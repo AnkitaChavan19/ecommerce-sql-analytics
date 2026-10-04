@@ -31,3 +31,9 @@ This project is designed to simulate an e-commerce business database and answer 
 ## Project Status
 
 🚧 Currently under development.
+
+# Ecommerce SQL Analytics
+
+MySQL ecommerce analytics project.
+
+Database: ecommerce_analytics
